@@ -51,10 +51,10 @@
         }
 
         .error {
-            background-color: #fdeaea; /* fondo más suave */
+            background-color: #fdeaea; 
             color: #a94442;
             border: 1px solid #a94442;
-            font-weight: 200; /* grosor de letra más delgado */
+            font-weight: 200; 
         }
 
         .exito {
