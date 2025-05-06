@@ -21,8 +21,7 @@ if (!empty($errores)) {
     exit;
 }
 
-// Aquí podrías enviar el correo o guardar los datos.
-// mail(...)
+
 
 header("Location: index.php?exito=1");
 exit;
